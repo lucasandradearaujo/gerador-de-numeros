@@ -1,0 +1,41 @@
+body {
+    background-image: url(../img/back.jpg);
+    background-attachment: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+    font-weight: 700;
+}
+
+.capa {
+    text-align: left;
+    margin-top: 50px;
+    padding: 20px;
+}
+
+.img-arredondar {
+    border-radius: 4px;
+}
+
+.font {
+    font-weight: 700;
+}
+
+.img-mg {
+    margin-top: 30px;
+}
+
+#home .container {
+    background: rgb(255, 255, 255);
+    margin-top: 150px;
+    width: 700px;
+    height: 400px;
+    border-radius: 8px;
+}
+
+#titulo-gerador{
+    text-align: center;
+    padding-top: auto;
+}
